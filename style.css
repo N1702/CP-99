@@ -1,0 +1,22 @@
+h1{
+    font-family:sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+    color: goldenrod;
+}
+
+h4{
+    font-family: cursive;
+    color: crimson;
+    font-weight: bolder;
+}
+img{
+    
+    width: 35%;
+    box-shadow: 0 6px 8px 0 rgb(0, 0, 0);
+    padding: 10px;
+
+}
+.column{
+    display:inline;
+}
